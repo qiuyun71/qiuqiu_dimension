@@ -1,5 +1,5 @@
 ## 秋秋次元-原生js动漫搜索网站
-在线预览网址：https://qiu-yun71.github.io/qiuqiu_dimension/
+在线预览网址：https://qiuqiu-dimension.qiuyun.top/
 
 ## 主要功能
 - 主题切换（亮色/暗色模式）

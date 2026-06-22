@@ -1,4 +1,5 @@
 ## 秋秋次元-原生js动漫搜索网站
+原生js学习阶段练习写的项目，无框架，仅用于巩固基础。
 在线预览网址：https://qiuqiu-dimension.qiuyun.top/
 
 ## 主要功能
